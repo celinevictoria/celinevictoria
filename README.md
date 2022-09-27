@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @celinevictoria
 - 👀 I’m interested in Python, R, Java
-- 🌱 I’m currently learning flask for Python
+- 🌱 I’m currently learning flask for Python and Swift/SwiftUI
 
 
 <!---
