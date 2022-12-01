@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @celinevictoria
 - 🎓 I have a bachelor's degree in Informatics: Language Technology
-- 👀 I’m interested in Python, R, Java and Swift
-- 🌱 I’m currently learning flask for Python and Swift/SwiftUI
+- 👀 I’m interested in Python, R, Dart and Swift
+- 🌱 I’m currently learning Swift/SwiftUI and Dart/Flutter
 
 
 <!---
