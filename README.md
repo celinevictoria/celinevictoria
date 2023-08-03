@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @celinevictoria
 - 🎓 I have a bachelor's degree in Informatics: Language Technology
-- 👀 I’m interested in Python, R, Dart and Swift
+- 👀 I’m interested in Python and Dart
 - 🌱 I’m currently learning Dart/Flutter
 
 
