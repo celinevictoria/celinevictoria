@@ -2,8 +2,7 @@
 - 🎓 I have a bachelor's degree in Informatics: Language Technology
 - 👀 I’m interested in Python and Dart
 - 🌱 I’m currently learning Dart/Flutter
-- 🛠️ I'm currently working on glose_app, which is a flutter app that     
-helps my brother learn his new English vocabulary for school every week.
+- 🛠️ I'm currently working on a few different dart apps for fun.
 
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celinevictoria&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
